@@ -9,7 +9,7 @@ Demo](https://img.shields.io/badge/Live%20Demo-VIBE%20Geometry-E2703A?style=flat
 
 **Explore the Bike. Experience the Difference.**
 
-VIBE 是 RIKULAU [台灣雲豹自行車] 的自行車產品互動體驗平台。透過 3D
+VIBE 是 RIKULAU [台灣雲豹自行車] 的專屬產品互動體驗平台。透過 3D
 即時視覺化、幾何資料、尺寸探索與產品配置介面，協助使用者理解車款調性、比較尺寸差異，並探索更細部的客製化服務配置。
 
 目前平台以 **VIBE Geometry（幾何探索）**
