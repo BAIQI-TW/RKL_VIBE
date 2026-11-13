@@ -7,7 +7,7 @@
 Demo](https://img.shields.io/badge/Live%20Demo-VIBE%20Geometry-E2703A?style=flat-square)](https://baiqi-tw.github.io/RKL_VIBE/)
 [![GitHub](https://img.shields.io/badge/GitHub-BAIQI--TW%2FRKL__VIBE-181717?style=flat-square&logo=github)](https://github.com/BAIQI-TW/RKL_VIBE)
 
-**Explore the Bike. Experience the Difference.**
+***Explore the Bike. Experience the Difference.***
 
 VIBE 是 RIKULAU [台灣雲豹自行車] 的專屬產品互動體驗平台。透過 3D
 即時視覺化、幾何資料、尺寸探索與產品配置介面，協助使用者理解車款調性、比較尺寸差異，並探索更細部的客製化服務配置。
