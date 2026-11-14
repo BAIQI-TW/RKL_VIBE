@@ -2,7 +2,7 @@
   <strong>🇹🇼 中文版</strong> | <a href="#english-version">🇺🇸 English Version</a>
 </div>
 
-# RKL VIBE
+# VIBE
 
 **Visual Interactive Bike Experience**  
 **騎感｜RKL 自行車互動體驗平台**
@@ -100,7 +100,7 @@ VIBE 是 RIKULAU（台灣雲豹自行車）的專屬產品互動體驗平台。�
   <a href="#rkl-vibe">🇹🇼 中文版</a> | <strong>🇺🇸 English Version</strong>
 </div>
 
-# RKL VIBE (English Version)
+# VIBE (English Version)
 
 **Visual Interactive Bike Experience**
 
